@@ -13,4 +13,5 @@ After installation, the project will be ready in final step.
 npm run dev
 ```
 After npm run dev, the program should be executed properly!!
-P.S. For the test, pls use image link on https://picsum.photos/images to avoid unexpected error in database.
+
+*P.S. For the test, pls use image link on https://picsum.photos/images to avoid unexpected error in database.*
